@@ -1,4 +1,4 @@
-Andry OS è una linux based che è stato creato con cosmos con la licenza gpl.
+Andry OS è una linux based che è stato creato con cosmos con la licenza  GNU generic public license (gpl)
 link cosmos. https://gocosmos.org
 per far partire cosmos vi serve visual studio, il .net framework 4.6.2 dev e cosmos
 per darmi delle idee conattatrmi alla mia e-mail: matigabriandri@gmail.com
@@ -12,4 +12,5 @@ Cosa c'è di nuovo nella versione 0.0.1.1?
 un nuovo benvenuto
 un nuovo colore all'input
 un nuovo input
-e se cercate i comandi, ci sto lavorando arriveranno nella version 0.0.1.2 o nella 0.0.1.2.1
+e se cercate i comandi, ci sto lavorando arriveranno nella versione 0.0.1.2 o nella 0.0.1.2.1
+copyright GNU/LINUX (credo)
