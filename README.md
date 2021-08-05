@@ -9,8 +9,8 @@ GPU: Intel HD Graphics 4000
 SSD: (non mi ricordo la marca) 120GB
 RAM: 8GB
 Cosa c'è di nuovo nella versione 0.0.1.1?
-un nuovo benvenuto
-un nuovo colore all'input
-un nuovo input
+un nuovo benvenuto,
+un nuovo colore all'input,
+un nuovo input,
 e se cercate i comandi, nella versione 0.0.1.2 che mettero su github quando saró sicuro che non ci sia nessun bug, cioè tipo fra 1 giorno, dove nelle tante novità aggiunge i comandi
 copyright GNU/LINUX (credo)
