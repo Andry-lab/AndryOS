@@ -1,4 +1,4 @@
-Andry OS è una linux based che è stato creato con cosmos con la licenza  GNU generic public license (gpl).
+Andry OS è una distro linux based che è stata creata con cosmos con la licenza  GNU generic public license (gpl).
 
 link cosmos. https://gocosmos.org
 per far partire cosmos vi serve visual studio, il .net framework 4.6.2 dev e cosmos.
