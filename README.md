@@ -12,10 +12,9 @@ GPU: Intel HD Graphics 4000
 SSD: (non mi ricordo la marca) 120GB
 RAM: 8GB.
 
-Cosa c'è di nuovo nella versione 0.0.1.1?
-un nuovo benvenuto,
-un nuovo colore all'input,
-un nuovo input
-e se cercate i comandi, nella versione 0.0.1.2 che mettero su github quando saró sicuro che non ci sia nessun bug, cioè tipo fra 1 giorno, nelle tante novità aggiunge i comandi
-
+Cosa c'è di nuovo nella versione 0.0.2?
+dei nuovi comandi
+una shell in lavorazione
+risoluzione dei problemi
+(nella versione 0.0.2.1 deve uscire un fix per la calcolatrice che faceva crashare il sistema)
 copyright GNU/LINUX (credo)
