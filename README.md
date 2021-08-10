@@ -18,3 +18,5 @@ una shell in lavorazione
 risoluzione dei problemi
 (nella versione 0.0.2.1 deve uscire un fix per la calcolatrice che faceva crashare il sistema)
 copyright GNU/LINUX (credo)
+
+(Spoiler non sapevo cosa mettere nel codice)
