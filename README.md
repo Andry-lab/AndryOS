@@ -15,3 +15,7 @@ RAM: 8GB.
 copyright GNU/LINUX (credo)
 
 (Spoiler non sapevo cosa mettere nel codice)
+
+non più sviluppato(forse)
+
+supportato fino a 18/05/2029
