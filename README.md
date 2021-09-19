@@ -2,8 +2,6 @@ AndryLinuxOS is a free linux distro created whit poncho, whit GNU generic public
 
 for contacting: matigabriandri@gmail.com
 
-AndryLinux 0.0.4.1 supported as far as 20/03/2025
-
 Copyright (c) GNU/LINUX / GPL License level 3
 
 The files in the "lib" and "inc" subdirectories are using the EFI Application 
